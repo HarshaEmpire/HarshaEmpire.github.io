@@ -65,9 +65,9 @@
     align-items: center;
 }
 .container1 > img {
-    width:30rem;
-    height: 20rem;
-    padding-top: 20px
+    width:90%;
+    padding-top: 30px;
+    height:90%;
 }
 .red{
     background: #C655BE; /* Old browsers */
